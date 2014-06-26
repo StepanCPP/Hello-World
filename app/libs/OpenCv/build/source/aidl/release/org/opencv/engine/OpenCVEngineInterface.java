@@ -1,6 +1,6 @@
 /*
  * This file is auto-generated.  DO NOT MODIFY.
- * Original file: /home/beta/AndroidStudioProjects/HelloWorld/app/libs/OpenCv/src/org/opencv/engine/OpenCVEngineInterface.aidl
+ * Original file: /home/beta/ANDROID/Hello-World/app/libs/OpenCv/src/org/opencv/engine/OpenCVEngineInterface.aidl
  */
 package org.opencv.engine;
 /**
