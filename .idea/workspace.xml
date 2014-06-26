@@ -1,13 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="1a4d67b7-bb49-4a3b-81c6-1bf7dd12139e" name="Default" comment="">
+    <list default="true" id="1a4d67b7-bb49-4a3b-81c6-1bf7dd12139e" name="Default" comment="Update readme">
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/README.md" afterPath="$PROJECT_DIR$/README.md" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/gradle/gradle/wrapper/gradle-wrapper.properties" afterPath="$PROJECT_DIR$/gradle/gradle/wrapper/gradle-wrapper.properties" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/gradle.xml" afterPath="$PROJECT_DIR$/.idea/gradle.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/gradle/gradlew" afterPath="$PROJECT_DIR$/gradle/gradlew" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/misc.xml" afterPath="$PROJECT_DIR$/.idea/misc.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/copyright/profiles_settings.xml" afterPath="$PROJECT_DIR$/.idea/copyright/profiles_settings.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="gradle.iws" />
@@ -74,7 +69,7 @@
       <file leaf-file-name="README.md" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/README.md">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="5" column="5" selection-start="46" selection-end="46" vertical-scroll-proportion="0.24853802" vertical-offset="0" max-vertical-offset="342">
+            <state line="7" column="4" selection-start="58" selection-end="58" vertical-scroll-proportion="0.34795323" vertical-offset="0" max-vertical-offset="342">
               <folding />
             </state>
           </provider>
@@ -461,7 +456,7 @@
       <changelist id="1a4d67b7-bb49-4a3b-81c6-1bf7dd12139e" name="Default" comment="" />
       <created>1403796865224</created>
       <updated>1403796865224</updated>
-      <workItem from="1403797519799" duration="200000" />
+      <workItem from="1403797519799" duration="275000" />
     </task>
     <task id="LOCAL-00001" summary="Update grandle file">
       <created>1403796928587</created>
@@ -475,11 +470,15 @@
       <created>1403797697216</created>
       <updated>1403797697216</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="Update readme">
+      <created>1403797757015</created>
+      <updated>1403797757015</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="200000" />
+    <option name="totallyTimeSpent" value="275000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="14" y="0" width="1301" height="658" extended-state="0" />
@@ -554,7 +553,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/README.md">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="5" column="5" selection-start="46" selection-end="46" vertical-scroll-proportion="0.24853802" vertical-offset="0" max-vertical-offset="342">
+        <state line="7" column="4" selection-start="58" selection-end="58" vertical-scroll-proportion="0.34795323" vertical-offset="0" max-vertical-offset="342">
           <folding />
         </state>
       </provider>
