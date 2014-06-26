@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<merger>
+
+    <dataSet config="main" >
+        <source path="/home/beta/AndroidStudioProjects/HelloWorld/app/libs/OpenCv/res" >
+            <file
+                path="/home/beta/AndroidStudioProjects/HelloWorld/app/libs/OpenCv/res/values/attrs.xml"
+                qualifiers="" >
+                <declare-styleable name="CameraBridgeViewBase" >
+                    <attr
+                        name="show_fps"
+                        format="boolean" />
+                    <attr
+                        name="camera_id"
+                        format="integer" >
+                        <enum
+                            name="any"
+                            value="-1" />
+                        <enum
+                            name="back"
+                            value="99" />
+                        <enum
+                            name="front"
+                            value="98" />
+                    </attr>
+                </declare-styleable>
+            </file>
+        </source>
+        <source path="/home/beta/AndroidStudioProjects/HelloWorld/app/libs/OpenCv/build/res/rs/debug" />
+        <source path="/home/beta/AndroidStudioProjects/HelloWorld/app/libs/OpenCv/build/res/generated/debug" />
+    </dataSet>
+    <dataSet config="debug" >
+        <source path="/home/beta/AndroidStudioProjects/HelloWorld/app/libs/OpenCv/src/debug/res" />
+    </dataSet>
+
+</merger>
